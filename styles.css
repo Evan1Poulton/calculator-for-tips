@@ -1,0 +1,41 @@
+body{
+	font-family: Helvetica;
+	color: blue;	
+	background-image: url(https://www.theretirementmanifesto.com/wp-content/uploads/2015/05/Money-624x353.jpg);
+}
+h1{
+	line-height:0;
+	padding-bottom:25px;
+	color: blue;
+}
+#box{
+	width: 350px;
+	padding: 100px;
+	background-color: limegreen;
+
+}
+.tip-calculator{
+	padding:50px;
+	width: 310px;
+	border: 10px solid blue;
+	margin:40px auto;
+	border-radius:40px;
+}
+label{
+	line-height: 2;
+	color: blue;
+}
+input{
+	width:100%;
+	padding:10px 0px 10px 10px;
+	margin-bottom: 25px;
+	display: block;
+	font-size: 15px;
+	background: transparent;
+	border:0;
+	border-bottom: 2px solid blue;
+}
+#owed{
+	
+
+}
